@@ -51,6 +51,9 @@ If the application is running in a production environment:
 + **app.listen()**: Starts the server and listens for incoming requests on the specified port.
 + The server logs a message to the console indicating that it is running.
 
+## What is CSRF?
+CSRF stands for Cross-Site Request Forgery. It is a type of security vulnerability that occurs when an attacker tricks a victim into performing unwanted actions on a website or web application in which the victim is authenticated. 
+CSRF attacks are particularly dangerous because they exploit the trust and privileges associated with a user's authenticated session. They can lead to account compromise, unauthorized data modification, or other malicious activities.
 ## Additional Helper Function:
 **isValidUrl(url)**: A helper function that uses the validator.isURL() method to check if a URL is valid.
 
