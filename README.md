@@ -1,6 +1,8 @@
 # URL Shortener
 ### Made with Node.js, Express.js, Handlebars.js and Mongoose
 
+![ezgif-5-bd7aa37b71](https://github.com/PranavSingh31/url-shortener/assets/76558062/f4492355-7c4b-4b57-b590-3647e2a1f55d)
+
 The project is a simple Node.js Application using the Express Framework and MongoDB to create a URL Shortener Service.
 
 ## Modules used
